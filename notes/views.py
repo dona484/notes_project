@@ -22,5 +22,6 @@ class NotesDetailView(DeleteView):
     context_object_name = "note"
 
 
-    
+
+   
 
